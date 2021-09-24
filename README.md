@@ -1,5 +1,7 @@
 All I wanted was a little peace and an easy life...
 
+Life is a boring trail... Apathy is just what I'm used to...
+
 <!---
 - 👋 Hi, I’m @PuiKey
 - 👀 I’m interested in gaming.
