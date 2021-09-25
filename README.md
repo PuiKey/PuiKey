@@ -1,3 +1,6 @@
+Depressed
+
+<!---
 All I wanted was a little peace and an easy life...
 
 Life is a boring trail... Apathy is just what I'm used to...
@@ -9,6 +12,7 @@ Gaming? Anime? Movie? Are those supposed to help me relieve stress?
 I just don't know what I'm doing anymore, I don't feel anything to anything I do now... 
 
 I'm just an empty depressed shell. 
+--->
 
 <!---
 - 👋 Hi, I’m @PuiKey
